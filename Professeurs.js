@@ -1,5 +1,5 @@
 /**
- * Projet : Demostration d'utilisation de Git dans VSCode
+ * Projet : Demonstration d'utilisation de Git dans VSCode
  * Auteur : Giovana Velarde
  * Date : 05 février 2021
  */
